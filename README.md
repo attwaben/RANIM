@@ -1,2 +1,2 @@
-# RANIM
-Arabic natural language proccessing.
+# RANIM for Arabic natural language proccessing.
+
